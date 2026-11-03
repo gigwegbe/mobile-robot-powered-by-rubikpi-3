@@ -1,0 +1,18 @@
+# Motor control (kiwi-drive inverse kinematics)
+lerobot
+
+# Sensors
+pyrealsense2
+rplidar-roboticia
+
+# Visualization
+rerun-sdk
+
+# Web teleop
+fastapi
+uvicorn
+websockets
+
+# Common
+opencv-python
+numpy
